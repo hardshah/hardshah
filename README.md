@@ -10,3 +10,5 @@ Currently the languages I am familiar with are:
 
 Python, C#, C++,Javascript, HTML5 and CSS. 
 
+# Please feel free to take a look at some of my repositories
+
