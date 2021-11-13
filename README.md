@@ -1,4 +1,4 @@
-Hi, I’m Hard Shah 
+# Hi, I’m Hard Shah 
 
 As a student at the University of Waterloo, I am looking to enhance my skills in web app development, and learn more technologies. I
 am a passionate and aspiring developer. 
