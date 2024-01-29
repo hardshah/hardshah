@@ -6,4 +6,4 @@ So far I've used Python, C#, C++, Javascript and Java.
 
 Some of my projects, include a compiler for basic arithmetic expressions, an automated onboarding tool, a calendar app to keep track of appointments with clients and more.
 
-Feel free to take a look at my repositories
+Feel free to take a look at my repositories and open-source contributions
